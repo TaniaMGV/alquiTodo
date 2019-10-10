@@ -1,2 +1,2 @@
-# AlquilaTodo
+# AlquiTodo
 Plataforma de Alquiler
