@@ -1,0 +1,10 @@
+Grupo proyecto alquiTodo: aplicacion para realizar todo tipo de alquileres
+Link:
+https://github.com/TaniaMGV/alquiTodo
+
+Integrantes:
+Tania Melissa Garcia Velasquez 	20121005644
+Bessy Pamela Reyes 			   	20091010472
+Abigail Fick Trejo             	20141005091
+Christhian Aldair Flores Armijo	20153000123
+Oscar Edgardo Lanza Nelson		20141001360
